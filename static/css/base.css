@@ -1,0 +1,54 @@
+#title {
+  color: rgb(255, 238, 0);
+}
+h2 {
+  color: #091292;
+  text-align: center;
+  margin-top: 1rem;
+}
+#navbarNavDropdown {
+  color: rgb(255, 238, 0);
+}
+#navbarNavDropdown a {
+  color: rgb(255, 238, 0);
+}
+.dropdown-menu {
+  background-color: rgb(255, 238, 0);
+}
+#unauth-drop .dropdown-item {
+  color: #343a40;
+}
+#unauth-drop .dropdown-item:hover {
+  background-color: #343a40;
+  color: rgb(255, 238, 0);
+}
+.dropdown-menu #dropdown-item:hover {
+  background-color: #343a40;
+  color: rgb(255, 238, 0);
+}
+.dropdown-menu #dropdown-item {
+  color: #343a40;
+}
+.dropdown-menu #dropdown-item .fas {
+  color: #091292;
+  margin-left: 0.5rem;
+}
+body {
+  color: #212529;
+}
+.jumbotron .btn {
+  background-color: #343a40;
+  color: rgb(255, 238, 0);
+}
+.jumbotron p {
+  text-align: center;
+  margin-top: 2rem;
+}
+.user-auth {
+  margin-left: 1rem;
+}
+div.user-auth {
+  position: absolute;
+  top: 5rem;
+  left: 0;
+}
